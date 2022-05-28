@@ -12,6 +12,7 @@
 - Bloc(Cubit)
 - Get It
 - Syncfusion Futter Charts
+- Flutter SVG
 
 ## ScreenShots
 ###### Home Page
