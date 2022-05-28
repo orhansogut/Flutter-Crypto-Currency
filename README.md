@@ -1,9 +1,5 @@
-Features
-API REST (CryptoWatch)
-Linear Graph View (Hour, Day, Week, etc)
-OHLC Graph
-Search
-Light / Dark Theme
-Multi Language
-Exchange Selection
-Favorite Pair
+> Features
+- API(Nomics)
+- Search
+- Graph(with fake data)
+- Coin Details (1D,1W,1M,1Y,ALL)
