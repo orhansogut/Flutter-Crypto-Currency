@@ -1,4 +1,4 @@
-# Crypto Currency with Flutter
+# Basic Crypto Currency with Flutter
 
 ## Features
 - API(Nomics)
