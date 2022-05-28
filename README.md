@@ -1,4 +1,4 @@
-> Features
+## Features
 - API(Nomics)
 - Search
 - Graph(with fake data)
