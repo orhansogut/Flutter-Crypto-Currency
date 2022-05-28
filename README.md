@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/89242655/170835342-da5470b9-b0a3-41f2-a122-39642827134a.png)
+
 ## Features
 - API(Nomics)
 - Search
@@ -12,7 +14,8 @@
 - Syncfusion Futter Charts
 
 ## ScreenShots
-![image](https://user-images.githubusercontent.com/89242655/170835342-da5470b9-b0a3-41f2-a122-39642827134a.png)
+###### Detail Page
 ![image](https://user-images.githubusercontent.com/89242655/170835352-08434e6a-f369-4478-9623-8e30a17360ba.png)
+###### Search 
 ![image](https://user-images.githubusercontent.com/89242655/170835368-af56530b-5fb0-43a6-8e50-43d24752b9da.png)
 
