@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/89242655/170835342-da5470b9-b0a3-41f2-a122-39642827134a.png)
+#Crypto Currency with Flutter
 
 ## Features
 - API(Nomics)
@@ -14,6 +14,8 @@
 - Syncfusion Futter Charts
 
 ## ScreenShots
+###### Home Page
+![image](https://user-images.githubusercontent.com/89242655/170835342-da5470b9-b0a3-41f2-a122-39642827134a.png)
 ###### Detail Page
 ![image](https://user-images.githubusercontent.com/89242655/170835352-08434e6a-f369-4478-9623-8e30a17360ba.png)
 ###### Search 
